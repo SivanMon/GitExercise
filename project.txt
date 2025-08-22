@@ -1,6 +1,6 @@
 hello sivan
 hello yuvalShaul
 hello saar
-new line 4 from right
-new line 5 from right
-new line 6 from right
+new line 4 from left
+new line 5 from left
+new line 6 from left
